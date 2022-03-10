@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgemistos
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Artificial Intelligence & Software Development
+- 🌱 I’m currently learning Blockchain Development & Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me michailgemistos@gmail.com
 
